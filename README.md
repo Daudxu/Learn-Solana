@@ -1,6 +1,4 @@
-# Learn-Solana 
-
-Learn-Solana 学习笔记目录
+# Learn-Solana 学习笔记目录
 
 ### Solana 基础知识
 - [Solana介绍](./README/Base/course_01.md)
